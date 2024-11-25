@@ -23,7 +23,7 @@ bibtex_bibfiles:
 repository:
   url: https://github.com/ELSinLBTH/HDT_Jupyterbook  # Online location of your book
   path_to_book: /HDT_Jupterbook  # Optional path to your book, relative to the repository root
-  branch: main  # Which branch of the repository should be used when creating links (optional)
+  branch: gh-pages  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
